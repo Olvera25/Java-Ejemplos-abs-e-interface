@@ -1,0 +1,4 @@
+En el primer paquete implemente polimorfismo con clases abstractas
+mientras que en el segundo implemente polimorfismo con la interface.
+
+Saludos.
